@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>RTCCrystalCompensationLook-UpTable</AssemblyName>
-    <Name>RTCCrystalCompensationLook-UpTable</Name>
-    <RootNamespace>RTCCrystalCompensationLook-UpTable</RootNamespace>
+    <AssemblyName>attiny817-rtc-crystal-compensation-look-up-table-studio</AssemblyName>
+    <Name>attiny817-rtc-crystal-compensation-look-up-table-studio</Name>
+    <RootNamespace>attiny817-rtc-crystal-compensation-look-up-table-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
