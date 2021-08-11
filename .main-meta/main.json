@@ -4,17 +4,17 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.attiny817-rtc-crystal-compensation-look-up-table-studio",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "RTC Crystal Compensation Look-Up Table",
         "projectName": "attiny817-rtc-crystal-compensation-look-up-table-studio",
         "shortDescription": "This example uses a look-up table to do temperature compensation in order to keep the clock more accurate.",
         "ide": {
-            "name": "Studio",
+            "name": "STUDIO",
             "semverRange": ">=7.0.2397"
         },
         "compiler": [
             {
-                "name": "AVR-GCC",
+                "name": "AVR GCC",
                 "semverRange": "^5.4.0"
             }
         ],
@@ -56,6 +56,9 @@
             "RTC"
         ],
         "keywords": [
+            "Crystal", 
+            "Internal Temperature Sensor",
+            "Calibration"
         ],
         "additionalData": {
             "longDescription": {
